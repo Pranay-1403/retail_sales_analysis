@@ -137,3 +137,4 @@ with row2_col2:
 # 7. Raw Data Explorer
 with st.expander("🔍 View Raw Filtered Data"):
     st.dataframe(filtered_df, use_container_width=True)
+
